@@ -1,0 +1,4 @@
+Gene: CFTR
+NCBI Gene ID: 1080
+UniProt Accession: P13569
+PDB ID: 5UAK
